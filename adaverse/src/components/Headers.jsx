@@ -5,7 +5,7 @@ import { ModeToggle } from "@/components/theme-toggle";
 import Link from "next/link";
 
 
-const Headers = ({ onAddProjectClick }) => {
+const Headers = ({onAddProjectClick}) => {
   return (
     <div>
       <header className="flex items-center justify-between">
